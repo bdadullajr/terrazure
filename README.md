@@ -14,7 +14,7 @@
 
 ## Terraform Installation CentOS/Ubuntu
 
-* [How to Install] (https://linoxide.com/linux-how-to/how-to-install-terraform-on-centos-ubuntu/)
+* [How to Install](https://linoxide.com/linux-how-to/how-to-install-terraform-on-centos-ubuntu/)
 
 ## Version
 ```
