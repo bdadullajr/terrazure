@@ -14,7 +14,7 @@
 
 ## Terraform Installation CentOS/Ubuntu
 
-* [Source] (https://daduber-storage.s3-ap-southeast-1.amazonaws.com/GIFs/azure-vm-creation.gif)
+* [How to Install] (https://linoxide.com/linux-how-to/how-to-install-terraform-on-centos-ubuntu/)
 
 ## Version
 ```
@@ -23,6 +23,6 @@ Terraform v0.12.24
 ```
 # Captured evidence
 
-* [Terminal](https://daduber-storage.s3-ap-southeast-1.amazonaws.com/GIFs/s3buckets.gif) <==== CLICK LINK TO VIEW THE DEMO!
+* [Terraform-Azure Provisioning](https://daduber-storage.s3-ap-southeast-1.amazonaws.com/GIFs/azure-vm-creation.gif) <==== CLICK LINK TO VIEW THE DEMO!
 
 
